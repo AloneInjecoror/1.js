@@ -1,5 +1,5 @@
 <html>
   <body>
-    <script>alert('XSS triggered!');</script>
+   aaaaa
   </body>
 </html>
