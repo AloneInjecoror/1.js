@@ -1,5 +1,5 @@
 <html>
   <body>
-   aaaaa
+  <script>confirm()</script>
   </body>
 </html>
